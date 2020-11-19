@@ -1,3 +1,5 @@
+{
+    "People": [
         {
             "Id": 5,
             "First Name ": "Benjamin",
@@ -16,4 +18,5 @@
             "LastName": "Smith",
             "Email": "pearsonsmith@cbtnuggets.com"
         }
-    
+    ]
+}
