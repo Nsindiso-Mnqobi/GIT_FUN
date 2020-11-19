@@ -11,6 +11,3 @@ json_dict['People'][0]['Id'] = 5
 
 with open("JSON.json", "w") as fh:
     json.dump(json_dict, fh, indent=4)
-    
-
-
